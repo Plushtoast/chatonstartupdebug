@@ -1,0 +1,27 @@
+{
+  "title": "Debug Chat Message",
+  "description": "",
+  "version": "5.1.1",
+  "url": "https://github.com/Plushtoast/dsa5-foundryVTT",
+  "manifest": "https://raw.githubusercontent.com/Plushtoast/chatonstartupdebug/main/module.json",
+  "download": "https://github.com/Plushtoast/chatonstartupdebug/archive/main.zip",
+  "languages": [
+  ],
+  "esmodules": [
+    "test.js"
+  ],
+  "packs": [
+   
+  ],
+  "id": "chatonstartupdebug",
+  "authors": [
+
+  ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11",
+    "maximum": "11"
+  },
+  "name": "chatonstartupdebug",
+  "minimumCoreVersion": "11"
+}
